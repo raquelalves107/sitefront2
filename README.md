@@ -1,2 +1,2 @@
 # sitefront2
-teste de site
+Nessa atividade vamos conhecer o GitHub Pages, e Codespace
